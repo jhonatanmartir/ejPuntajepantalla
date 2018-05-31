@@ -59,7 +59,7 @@
                 android:layout_height="70dp"
                 android:padding="8dp"
                 android:src="@drawable/imagenes28"
-                app:civ_border_color="@color/text_primary"
+                app:civ_border_color="@android:color/darker_gray"
                 app:civ_border_width="3dp" />
 
             <LinearLayout

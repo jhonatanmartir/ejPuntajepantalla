@@ -6,4 +6,9 @@
     <color name="backgroundPrimary">#161124</color>
     <color name="foregroundPrimary">#ffdc35</color>
     <color name="text_primary">#ffffff</color>
+    <color name="F1">#413F42</color>
+    <color name="Nascar">#8AC249</color>
+    <color name="Racing">#27C7DC</color>
+    <color name="Liviano">#5F7B8A</color>
+    <color name="Aprendiz">#F4423C</color>
 </resources>

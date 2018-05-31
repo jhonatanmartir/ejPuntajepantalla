@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void FillList()
     {
+        //Agregar usuarios que se mostraran en el RecyclerView
         this.usuarios = new ArrayList<>();
         this.usuarios.add(new User("Janet Perkins", "1000 Pts", "F1", R.drawable.imagenes27));
         this.usuarios.add(new User("Mary Johnson", "800 Pts", "Nascar", R.drawable.imagenes28));
